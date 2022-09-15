@@ -1,4 +1,4 @@
-# TuxHurt
+# Roblox Beta Client Remover
   ![Github licence](https://img.shields.io/badge/license-GPLv3-green?style=flat-square)
   
   ## Description 
